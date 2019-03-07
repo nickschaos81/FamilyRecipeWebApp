@@ -22,7 +22,7 @@
               <a class="nav-link" href="javascript:ColdFusion.navigate('users/home.cfm', 'page')" title="Home">Home <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="javascript:ColdFusion.navigate('/login/userValidate.cfm', 'page')" title="validate">Login/Register</a>
+              <a class="nav-link" href="javascript:ColdFusion.navigate('/login/userLogin.cfm', 'page')" title="Login">Login/Register</a>
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
